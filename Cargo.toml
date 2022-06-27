@@ -1,5 +1,5 @@
 [package]
-name = "read-process-memory"
+name = "read-process-memory-ptrace"
 edition = "2021"
 version = "0.1.4"
 authors = ["Ted Mielczarek <ted@mielczarek.org>"]
